@@ -16,6 +16,8 @@ $(function() {
             layer.close(index);
           });
     })
+
+    
 })
 
 //获取用户信息
